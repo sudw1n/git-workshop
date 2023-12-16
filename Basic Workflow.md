@@ -1,0 +1,12 @@
+# Basic Workflow / Recap
+- have a project
+- turn it into a repository -> `git init`
+- fundamental theorem of software engineering: "all problems in computer science can be solved by another level of indirection"
+- explain working tree, commit and index (staging area)
+- stage changes to be included in next commit
+- commit
+--
+- wanna store it elsewhere? use remotes
+- remotes can be GitHub, GitLab (remote server), another directory, etc.
+- push your commits to a remote
+---
